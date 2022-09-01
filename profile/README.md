@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+As a mission-based company, Aguaro is 100% dedicated to ecological transition of enterprise services, starting with IT.
+
 <!--
 
 **Here are some ideas to get you started:**
